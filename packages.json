@@ -1,0 +1,62 @@
+[
+  {
+    "package": "affiner",
+    "url": "https://github.com/trevorld/affiner"
+  },
+  {
+    "package": "bittermelon",
+    "url": "https://github.com/trevorld/bittermelon"
+  },
+  {
+    "package": "bracer",
+    "url": "https://github.com/trevorld/bracer"
+  },
+  {
+    "package": "findpython",
+    "url": "https://github.com/trevorld/findpython"
+  },
+  {
+    "package": "ggpattern",
+    "url": "https://github.com/trevorld/ggpattern"
+  },
+  {
+    "package": "gridpattern",
+    "url": "https://github.com/trevorld/gridpattern"
+  },
+  {
+    "package": "hexfont",
+    "url": "https://github.com/trevorld/hexfont"
+  },
+  {
+    "package": "argparse",
+    "url": "https://github.com/trevorld/r-argparse"
+  },
+  {
+    "package": "datetimeoffset",
+    "url": "https://github.com/trevorld/r-datetimeoffset"
+  },
+  {
+    "package": "ledger",
+    "url": "https://github.com/trevorld/r-ledger"
+  },
+  {
+    "package": "optparse",
+    "url": "https://github.com/trevorld/r-optparse"
+  },
+  {
+    "package": "xmpdf",
+    "url": "https://github.com/trevorld/r-xmpdf"
+  },
+  {
+    "package": "aRt",
+    "url": "https://github.com/nrennie/aRt"
+  },
+  {
+    "package": "r.oguelike",
+    "url": "https://github.com/matt-dray/r.oguelike"
+  },
+  {
+    "package": "truchet",
+    "url": "https://github.com/paezha/truchet"
+  }
+]

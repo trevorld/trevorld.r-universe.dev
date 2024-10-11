@@ -36,6 +36,10 @@
     "url": "https://github.com/trevorld/r-datetimeoffset"
   },
   {
+    "package": "getopt",
+    "url": "https://github.com/trevorld/r-getopt"
+  },
+  {
     "package": "ledger",
     "url": "https://github.com/trevorld/r-ledger"
   },

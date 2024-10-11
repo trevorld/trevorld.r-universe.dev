@@ -12,7 +12,7 @@ urls_normal <- c(
 urls_r <- c(
     "argparse",
     "datetimeoffset",
-    # "getopt", 
+    "getopt",
     "ledger",
     "optparse",
     "xmpdf"

@@ -28,6 +28,10 @@
     "url": "https://github.com/trevorld/hexfont"
   },
   {
+    "package": "pnpmisc",
+    "url": "https://github.com/trevorld/pnpmisc"
+  },
+  {
     "package": "argparse",
     "url": "https://github.com/trevorld/r-argparse"
   },

@@ -7,7 +7,8 @@ urls_normal <- c(
     "findpython",
     "ggpattern",
     "gridpattern",
-    "hexfont"
+    "hexfont",
+    "pnpmisc"
 )
 urls_r <- c(
     "argparse",

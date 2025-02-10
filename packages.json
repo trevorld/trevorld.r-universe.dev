@@ -32,6 +32,10 @@
     "url": "https://github.com/trevorld/pnpmisc"
   },
   {
+    "package": "sbgjackets",
+    "url": "https://github.com/trevorld/sbgjackets"
+  },
+  {
     "package": "argparse",
     "url": "https://github.com/trevorld/r-argparse"
   },

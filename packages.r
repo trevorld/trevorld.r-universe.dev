@@ -8,7 +8,8 @@ urls_normal <- c(
     "ggpattern",
     "gridpattern",
     "hexfont",
-    "pnpmisc"
+    "pnpmisc",
+    "sbgjackets"
 )
 urls_r <- c(
     "argparse",

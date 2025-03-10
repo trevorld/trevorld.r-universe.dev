@@ -28,6 +28,10 @@
     "url": "https://github.com/trevorld/hexfont"
   },
   {
+    "package": "oblicubes",
+    "url": "https://github.com/trevorld/oblicubes"
+  },
+  {
     "package": "pnpmisc",
     "url": "https://github.com/trevorld/pnpmisc"
   },

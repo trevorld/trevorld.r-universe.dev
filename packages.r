@@ -4,6 +4,7 @@ urls_normal <- c(
     "affiner",
     "bittermelon",
     "bracer",
+    "dee",
     "findpython",
     "ggpattern",
     "gridpattern",

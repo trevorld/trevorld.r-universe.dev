@@ -12,6 +12,10 @@
     "url": "https://github.com/trevorld/bracer"
   },
   {
+    "package": "dee",
+    "url": "https://github.com/trevorld/dee"
+  },
+  {
     "package": "findpython",
     "url": "https://github.com/trevorld/findpython"
   },

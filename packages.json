@@ -76,6 +76,10 @@
     "url": "https://github.com/matt-dray/r.oguelike"
   },
   {
+    "package": "svgparser",
+    "url": "https://github.com/coolbutuseless/svgparser"
+  },
+  {
     "package": "truchet",
     "url": "https://github.com/paezha/truchet"
   }

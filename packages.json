@@ -72,6 +72,14 @@
     "url": "https://github.com/nrennie/aRt"
   },
   {
+    "package": "cssparser",
+    "url": "https://github.com/coolbutuseless/cssparser"
+  },
+  {
+    "package": "minisvg",
+    "url": "https://github.com/coolbutuseless/minisvg"
+  },
+  {
     "package": "r.oguelike",
     "url": "https://github.com/matt-dray/r.oguelike"
   },

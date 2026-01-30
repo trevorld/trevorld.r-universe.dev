@@ -24,6 +24,8 @@ urls_r <- c(
 
 urls_other <- list(
 	aRt = "https://github.com/nrennie/aRt",
+	cssparser = "https://github.com/coolbutuseless/cssparser",
+	minisvg = "https://github.com/coolbutuseless/minisvg",
 	r.oguelike = "https://github.com/matt-dray/r.oguelike",
 	svgparser = "https://github.com/coolbutuseless/svgparser",
 	truchet = "https://github.com/paezha/truchet"
